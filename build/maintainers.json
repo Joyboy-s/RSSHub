@@ -2209,6 +2209,9 @@
   "/gitee/events/:username": [
     "TonyRL"
   ],
+  "/github/activity/:user": [
+    "hyoban"
+  ],
   "/github/branches/:user/:repo": [
     "max-arnold"
   ],
@@ -3202,6 +3205,9 @@
     "FeCCC"
   ],
   "/ixigua/user/video/:uid/:disableEmbed?": [],
+  "/j-test/news": [
+    "kuhahku"
+  ],
   "/jandan/": [
     "nczitzk",
     "bigfei"
@@ -3995,10 +4001,10 @@
   "/neatdownloadmanager/download/:os?": [
     "nczitzk"
   ],
-  "/neea/:type?": [
+  "/neea/local/:type": [
     "SunShinenny"
   ],
-  "/neea/jlpt": [
+  "/neea/global/jlpt": [
     "nczitzk"
   ],
   "/nenu/sohac/*": [],
